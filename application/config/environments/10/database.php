@@ -19,10 +19,10 @@ return array
 			 * Ports and sockets may be appended to the hostname.
 			 */
 			
-            'hostname'   => 'mysql5.christianmauerer.com',
-			'database' => 'db331960',
-			'username' => 'db331960',
-			'password' => 'alpine0098',
+            'hostname'   => '',
+			'database' => '',
+			'username' => '',
+			'password' => '',
 
 			'persistent' => FALSE,
 		),
